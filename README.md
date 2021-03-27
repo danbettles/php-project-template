@@ -12,7 +12,7 @@ Additionally, the following Composer scripts are included to help you quickly ge
 ## Instructions
 
 - Replace "php-project-template" with the name of your Git repository.
-- Replace `PHP Project Template` with the name of your project.
+- Replace "PHP Project Template" with the name of your project.
 - Except in `phpcs.xml`, replace "DanBettles" with your vendor namespace.
 - Replace "PhpProjectTemplate" with the namespace of your app.
 - Run `composer update`.
