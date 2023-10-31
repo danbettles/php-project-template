@@ -1,7 +1,6 @@
 # PHP Project Template
 
-A most basic PHP project template with PHPUnit and PHP_CodeSniffer ready to roll.  The project is ISC-licensed by
-default.
+A most basic PHP project template with PHPUnit and PHP_CodeSniffer ready to roll.  The project will be [ISC-licensed](https://en.wikipedia.org/wiki/ISC_license) by default.
 
 Additionally, the following Composer scripts are included to help you quickly get going.
 
@@ -15,7 +14,8 @@ Additionally, the following Composer scripts are included to help you quickly ge
 - Replace "PHP Project Template" with the name of your project.
 - Except in `phpcs.xml`, replace "DanBettles" with your vendor namespace.
 - Replace "PhpProjectTemplate" with the namespace of your app.
-- Run `composer update`.
+- In `composer.json`, update the type of the package&mdash;if need be.
 - Update the year and name in `LICENSE`.
 - Rewrite this file.
+- Run `composer update`.
 - Start building from `tests/SomethingTest.php` and `src/Something.php`.

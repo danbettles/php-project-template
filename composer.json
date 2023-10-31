@@ -1,7 +1,7 @@
 {
     "name": "danbettles/php-project-template",
     "description": "",
-    "type": "project",
+    "type": "library",
     "license": "ISC",
     "authors": [
         {
