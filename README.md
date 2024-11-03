@@ -4,10 +4,10 @@ A most basic PHP project template with [PHPUnit](https://phpunit.de/), [PHPStan]
 
 Additionally, the following Composer scripts are included to help you quickly get going.
 
-- `composer app:test`: runs the PHPUnit unit tests
-- `composer app:analyse`: runs PHPStan at level 11
-- `composer app:lint`: runs PHP_CodeSniffer
-- `composer app:check-quality`: runs the PHPUnit unit tests, PHPStan, and then PHP_CodeSniffer
+- `composer app:dev:test`: runs the PHPUnit unit tests
+- `composer app:dev:analyse`: runs PHPStan at level 11
+- `composer app:dev:lint`: runs PHP_CodeSniffer
+- `composer app:dev:check-quality`: runs the PHPUnit unit tests, PHPStan, and then PHP_CodeSniffer
 
 ## Instructions
 
